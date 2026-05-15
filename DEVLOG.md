@@ -16,7 +16,6 @@
 > implement first, what parts you expect to be difficult, and how you plan to test.
 
 I plan to first look over and understand the material and understand what is required of this final. As well as how Djikstra's algorithm will be used for precomputing shortest paths between important locations. After that, I will design the search algorithm that determines the best order for collecting relics while minimizing total fuel cost. I am assuming the most difficult parts to be managing the search state correctly and implementing pruning without removing optimal solutions. Testing my work by starting with small example graphs and manually verifying the expected shortest paths. 
-
 ---
 
 ## Entry 2 – [May 10th, 2026]: [Short description]
