@@ -55,7 +55,7 @@
 
 > State the total complexity and show the arithmetic. Two to three lines max.
 
-- **Number of Dijkstra runs:** k + 1 
+- **Number of Dijkstra runs:** k + 1  
 - **Cost per run:** O(m log n )
 - **Total complexity:** O (( k + 1 ) * m log n ) 
 - **Justification (one line):** Dijkstra is run once for every source node taht may begin a routing segment. 
