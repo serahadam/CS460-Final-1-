@@ -45,8 +45,8 @@ def select_sources(spawn, relics, exit_node):
     """
     Returns a list of nodes to run Dijkstra from.
     """
-   source = [spawn] + relics 
-   return list(set(sources))
+    sources = [spawn] + relics
+    return list(set(sources))
 
 
 def run_dijkstra(graph, source):
